@@ -75,7 +75,31 @@ Career/Employability/Learning Insights<br>
 2.Familiarity with staging and deployment best practices is important for maintaining stable and secure WordPress sites in a professional context.<br>
 3.Learning to evaluate and select high-quality themes and plugins is a key skill for WordPress developers and site owners. Criteria to consider include the author's reputation, update history, compatibility, features, and performance impact.<br>
 As WordPress is so widely used, skills developed while learning the platform - like web design principles, HTML/CSS basics, PHP fundamentals, and database concepts - are transferable to web development more broadly.<br>
-
+<br>
+Week 5 - WordPress: Developing Child Themes<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU weekly video.<br>
+2.Studied the LinkedIn Learning course WordPress: Building Child Themes<br>
+3.Studied the LinkedIn Learning course Learning Responsive Web Design in the Browser<br>
+4.Created child themes for WordPress site.<br>
+Estimated Hours<br>
+12 hours<br>
+Content Insights<br>
+1.Child themes in WordPress inherit the functionality and styling of a parent theme while allowing for customizations without modifying the parent theme's files directly. This preserves the ability to update the parent theme without losing custom changes.<br>
+2.To create a child theme, you need a stylesheet (style.css) and a functions.php file in a new directory within the themes folder. The stylesheet must include a reference to the parent theme in a comment block at the top.<br>
+3.The functions.php file is used to enqueue the child theme's stylesheet and add or modify functionality. It is also used to override template files from the parent theme.<br>
+4.Responsive web design ensures that websites adapt and display properly on various devices and screen sizes. Key techniques include using relative units (e.g., percentages, em, rem), flexible images and media, and CSS media queries to apply different styles based on screen size.<br>
+5.Browser developer tools are valuable for inspecting and modifying HTML and CSS in real-time. They allow for quick experimentation and debugging before applying changes to the actual stylesheet.<br>
+6.WordPress theme customizer allows for live previewing of theme settings, colors, and other options. Child themes can add new customizer settings or modify existing ones from the parent theme.<br>
+<br>
+Career/Employability/Learning Insights<br>
+1.Understanding how to create and modify WordPress child themes is a valuable skill for web developers and designers working with the platform. It allows for efficient customization and maintainability of WordPress sites.<br>
+2.Familiarity with responsive web design principles and techniques is essential for creating websites that provide a good user experience across devices. Employers often seek candidates with experience in building responsive sites.<br>
+3.Proficiency with browser developer tools can greatly enhance a web developer's workflow and problem-solving abilities. Being able to quickly inspect, debug, and experiment with code changes is a valuable skill in the workplace.<br>
+4.Sharing lessons learned and insights on professional networks like LinkedIn can demonstrate a commitment to continuous learning and engagement with the web development community. It can also lead to valuable connections and opportunities.<br>
+Developing a portfolio of practical projects, such as custom WordPress child themes, can showcase a web developer's skills and experience to potential employers or clients. It provides concrete examples of the ability to apply theoretical knowledge to real-world scenarios.<br>
+<br>
 
 13 / June / 2024<br>
 Week 4 - Development and deployment workflows<br>
@@ -101,3 +125,31 @@ Career/Employability/Learning Insights<br>
 4.Experience with local development and deployment processes is crucial for web professionals. Employers often expect developers to be able to set up their own development environments and manage the deployment process.<br>
 5.Knowledge of staging environments and DevOps practices like CI/CD is increasingly important as web projects become more complex. These skills can help developers catch bugs early, automate repetitive tasks, and improve the reliability of deployments.<br>
 6.Continuous learning is essential in the rapidly evolving field of web development. Keeping up with new tools, best practices, and workflows through courses, tutorials, and hands-on experience is valuable for career growth and employability.<br>
+
+
+Week 6 - Project/client introduction, group project management<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU weekly video.<br>
+2.Studied the LinkedIn Learning course Agile at Work: Driving Productive Agile Meetings<br>
+3.Completed the practical on setting up teamwork tools and group agreement.<br>
+4.Connected with teammates on LinkedIn.<br>
+5.Integrated GitHub repo and Trello board with Slack channel.<br>
+6.Started project planning and assigning tasks to team members.<br>
+<br>
+Estimated Hours<br>
+8 hours<br>
+Content Insights<br>
+1.Daily stand-up meetings are a key practice in Agile methodologies. They help keep the team aligned, surface issues early, and promote accountability.<br>
+2.Effective stand-up meetings should be short (usually 15 minutes or less), focused on what each team member did yesterday, what they plan to do today, and any blockers or impediments they face.<br>
+3.Integrating project management tools like Trello or GitHub Projects with communication platforms like Slack can streamline workflows and keep everyone informed of progress and updates.<br>
+4.A group agreement is an important tool for setting shared expectations, roles, and responsibilities within a team. It should cover topics like communication norms, conflict resolution, and individual strengths and skills.<br>
+5.When starting a new project, it's important to break down high-level goals into smaller, actionable tasks that can be assigned to team members. This helps make progress more tangible and manageable.<br>
+<br>
+
+Career/Employability/Learning Insights<br>
+1.Experience with Agile methodologies and practices like daily stand-ups is highly valued in many software development and IT roles. Demonstrating familiarity with these concepts can make candidates more competitive in the job market.<br>
+2.Proficiency with project management and collaboration tools like Trello, GitHub, and Slack is a common requirement for many web development positions. Building hands-on experience with these tools through group projects can enhance employability.<br>
+3.The ability to work effectively in a team, communicate clearly, and manage tasks and deadlines are critical soft skills for success in the workplace. Participating in group projects provides an opportunity to develop and showcase these skills.<br>
+4.Networking with colleagues and classmates on professional platforms like LinkedIn can lead to valuable connections and opportunities down the road. It's never too early to start building a strong professional network.<br>
+Taking initiative to investigate and test different tools and solutions (like hosting platforms) demonstrates a proactive and problem-solving mindset - qualities that are highly sought after by employers.<br>
