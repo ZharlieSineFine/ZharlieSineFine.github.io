@@ -68,10 +68,36 @@ Content Insights<br>
 4.Menus provide site navigation and are managed in the Appearance > Menus section of the WordPress admin area. Menus can include links to pages, posts, categories, or external URLs.<br>
 5.Themes control the design and layout of a WordPress site. They can be installed from the WordPress.org theme directory or from third-party marketplaces. Child themes allow customization without losing changes during parent theme updates.<br>
 6.Plugins extend WordPress functionality. Popular types include SEO, caching, security, forms, and e-commerce. Like themes, they can be installed from the official directory or third-party sources. It's important to keep them updated and use only those from trusted developers.<br>
-A staging site is a separate copy of the live site used for testing changes. Deploying moves changes from staging to production. Tools like WP Stagecoach, WP Staging, and Duplicator help manage staging workflows.<br>
+7.A staging site is a separate copy of the live site used for testing changes. Deploying moves changes from staging to production. Tools like WP Stagecoach, WP Staging, and Duplicator help manage staging workflows.<br>
 <br>
 Career/Employability/Learning Insights<br>
 1.Understanding the fundamentals of WordPress installation, settings, content management, themes, and plugins is valuable for web professionals, as WordPress powers over 40% of all websites.<br>
 2.Familiarity with staging and deployment best practices is important for maintaining stable and secure WordPress sites in a professional context.<br>
 3.Learning to evaluate and select high-quality themes and plugins is a key skill for WordPress developers and site owners. Criteria to consider include the author's reputation, update history, compatibility, features, and performance impact.<br>
 As WordPress is so widely used, skills developed while learning the platform - like web design principles, HTML/CSS basics, PHP fundamentals, and database concepts - are transferable to web development more broadly.<br>
+
+
+13 / June / 2024<br>
+Week 4 - Development and deployment workflows<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU weekly video.<br>
+2.Studied the LinkedIn Learning course Mapping the Modern Web Design Process<br>
+3.Studied the LinkedIn Learning course Migrating WordPress with WP Migrate DB and DB pro<br>
+4.Completed the practical on setting up a local development environment.<br>
+Estimated Hours<br>
+12 hours<br>
+Content Insights<br>
+1.A modern web design process typically includes discovery, design, development, and deployment phases. Each phase involves specific activities and deliverables, such as wireframes, style tiles, prototypes, and code releases.<br>
+2.Version control systems like Git are essential for managing code changes, collaborating with team members, and tracking project history. Git concepts like repositories, branches, commits, and pull requests are used to organize and merge changes.<br>
+3.Local development involves setting up a web server, database, and development tools on your own computer. This allows for faster development and testing without affecting a live site. Popular local development tools for WordPress include MAMP, XAMPP, and Local by Flywheel.<br>
+4.Deploying a WordPress site from local to production involves migrating the database and files. WP Migrate DB and DB Pro are plugins that simplify this process by handling serialized data and URL replacements. Other deployment methods include manual transfers, FTP/SFTP, and deployment tools like DeployBot or AWS CodeDeploy.<br>
+5.Staging environments provide an intermediary between local development and production. They allow for testing changes in a production-like setting before pushing live.<br>
+
+Career/Employability/Learning Insights<br>
+1.DevOps practices like continuous integration and continuous deployment (CI/CD) automate the process of testing, building, and deploying code changes. Tools like Jenkins, TravisCI, and CircleCI are used to implement CI/CD pipelines.<br>
+Career/Employability/Learning Insights<br>
+2.Understanding web design processes and project phases is important for collaborating with designers, developers, and stakeholders. Familiarity with common deliverables and milestones helps ensure projects stay on track.<br>
+3.Version control is a fundamental skill for web developers. Demonstrating proficiency with Git commands and workflows can be a valuable asset in job interviews and on-the-job collaboration.<br>
+4.Experience with local development and deployment processes is crucial for web professionals. Employers often expect developers to be able to set up their own development environments and manage the deployment process.<br>
+5.Knowledge of staging environments and DevOps practices like CI/CD is increasingly important as web projects become more complex. These skills can help developers catch bugs early, automate repetitive tasks, and improve the reliability of deployments.<br>
+6.Continuous learning is essential in the rapidly evolving field of web development. Keeping up with new tools, best practices, and workflows through courses, tutorials, and hands-on experience is valuable for career growth and employability.<br>
