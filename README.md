@@ -52,7 +52,9 @@ Files ----> Web Server <--------> Browser<br>
 Career/Employability/Learning Insights<br>
 1.WordPress may not be the best CMS there is in the current market, but given its popularity and dominant status among all the CMS right now, it is still considered a good option for beginners to learn for getting familiar with CMS in general.<br>
 2.Virtual machines are often applied as a development and production environment. We can use VirtualBox or VMWare to set up our virtual machines for site development.<br>
-<br>
+<be>
+
+06 / June / 2024<br>
 Week 3 - WordPress: installation, settings, content, navigation, using themes and plugins<br>
 <br>
 Learning Activities & Resources<br>
@@ -75,30 +77,6 @@ Career/Employability/Learning Insights<br>
 2.Familiarity with staging and deployment best practices is important for maintaining stable and secure WordPress sites in a professional context.<br>
 3.Learning to evaluate and select high-quality themes and plugins is a key skill for WordPress developers and site owners. Criteria to consider include the author's reputation, update history, compatibility, features, and performance impact.<br>
 As WordPress is so widely used, skills developed while learning the platform - like web design principles, HTML/CSS basics, PHP fundamentals, and database concepts - are transferable to web development more broadly.<br>
-<br>
-Week 5 - WordPress: Developing Child Themes<br>
-<br>
-Learning Activities & Resources<br>
-1.Finished the LearnJCU weekly video.<br>
-2.Studied the LinkedIn Learning course WordPress: Building Child Themes<br>
-3.Studied the LinkedIn Learning course Learning Responsive Web Design in the Browser<br>
-4.Created child themes for WordPress site.<br>
-Estimated Hours<br>
-12 hours<br>
-Content Insights<br>
-1.Child themes in WordPress inherit the functionality and styling of a parent theme while allowing for customizations without modifying the parent theme's files directly. This preserves the ability to update the parent theme without losing custom changes.<br>
-2.To create a child theme, you need a stylesheet (style.css) and a functions.php file in a new directory within the themes folder. The stylesheet must include a reference to the parent theme in a comment block at the top.<br>
-3.The functions.php file is used to enqueue the child theme's stylesheet and add or modify functionality. It is also used to override template files from the parent theme.<br>
-4.Responsive web design ensures that websites adapt and display properly on various devices and screen sizes. Key techniques include using relative units (e.g., percentages, em, rem), flexible images and media, and CSS media queries to apply different styles based on screen size.<br>
-5.Browser developer tools are valuable for inspecting and modifying HTML and CSS in real-time. They allow for quick experimentation and debugging before applying changes to the actual stylesheet.<br>
-6.WordPress theme customizer allows for live previewing of theme settings, colors, and other options. Child themes can add new customizer settings or modify existing ones from the parent theme.<br>
-<br>
-Career/Employability/Learning Insights<br>
-1.Understanding how to create and modify WordPress child themes is a valuable skill for web developers and designers working with the platform. It allows for efficient customization and maintainability of WordPress sites.<br>
-2.Familiarity with responsive web design principles and techniques is essential for creating websites that provide a good user experience across devices. Employers often seek candidates with experience in building responsive sites.<br>
-3.Proficiency with browser developer tools can greatly enhance a web developer's workflow and problem-solving abilities. Being able to quickly inspect, debug, and experiment with code changes is a valuable skill in the workplace.<br>
-4.Sharing lessons learned and insights on professional networks like LinkedIn can demonstrate a commitment to continuous learning and engagement with the web development community. It can also lead to valuable connections and opportunities.<br>
-Developing a portfolio of practical projects, such as custom WordPress child themes, can showcase a web developer's skills and experience to potential employers or clients. It provides concrete examples of the ability to apply theoretical knowledge to real-world scenarios.<br>
 <br>
 
 13 / June / 2024<br>
@@ -124,9 +102,35 @@ Career/Employability/Learning Insights<br>
 3.Version control is a fundamental skill for web developers. Demonstrating proficiency with Git commands and workflows can be a valuable asset in job interviews and on-the-job collaboration.<br>
 4.Experience with local development and deployment processes is crucial for web professionals. Employers often expect developers to be able to set up their own development environments and manage the deployment process.<br>
 5.Knowledge of staging environments and DevOps practices like CI/CD is increasingly important as web projects become more complex. These skills can help developers catch bugs early, automate repetitive tasks, and improve the reliability of deployments.<br>
-6.Continuous learning is essential in the rapidly evolving field of web development. Keeping up with new tools, best practices, and workflows through courses, tutorials, and hands-on experience is valuable for career growth and employability.<br>
+6.Continuous learning is essential in the rapidly evolving field of web development. Keeping up with new tools, best practices, and workflows through courses, tutorials, and hands-on experience is valuable for career growth and employability.<be>
 
+20 / June / 2024 <br>
+Week 5 - WordPress: Developing Child Themes<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU weekly video.<br>
+2.Studied the LinkedIn Learning course WordPress: Building Child Themes<br>
+3.Studied the LinkedIn Learning course Learning Responsive Web Design in the Browser<br>
+4.Created child themes for WordPress site.<br>
+Estimated Hours<br>
+12 hours<br>
+Content Insights<br>
+1.Child themes in WordPress inherit the functionality and styling of a parent theme while allowing for customizations without modifying the parent theme's files directly. This preserves the ability to update the parent theme without losing custom changes.<br>
+2.To create a child theme, you need a stylesheet (style.css) and a functions.php file in a new directory within the themes folder. The stylesheet must include a reference to the parent theme in a comment block at the top.<br>
+3.The functions.php file is used to enqueue the child theme's stylesheet and add or modify functionality. It is also used to override template files from the parent theme.<br>
+4.Responsive web design ensures that websites adapt and display properly on various devices and screen sizes. Key techniques include using relative units (e.g., percentages, em, rem), flexible images and media, and CSS media queries to apply different styles based on screen size.<br>
+5.Browser developer tools are valuable for inspecting and modifying HTML and CSS in real-time. They allow for quick experimentation and debugging before applying changes to the actual stylesheet.<br>
+6.WordPress theme customizer allows for live previewing of theme settings, colors, and other options. Child themes can add new customizer settings or modify existing ones from the parent theme.<br>
+<br>
+Career/Employability/Learning Insights<br>
+1.Understanding how to create and modify WordPress child themes is a valuable skill for web developers and designers working with the platform. It allows for efficient customization and maintainability of WordPress sites.<br>
+2.Familiarity with responsive web design principles and techniques is essential for creating websites that provide a good user experience across devices. Employers often seek candidates with experience in building responsive sites.<br>
+3.Proficiency with browser developer tools can greatly enhance a web developer's workflow and problem-solving abilities. Being able to quickly inspect, debug, and experiment with code changes is a valuable skill in the workplace.<br>
+4.Sharing lessons learned and insights on professional networks like LinkedIn can demonstrate a commitment to continuous learning and engagement with the web development community. It can also lead to valuable connections and opportunities.<br>
+Developing a portfolio of practical projects, such as custom WordPress child themes, can showcase a web developer's skills and experience to potential employers or clients. It provides concrete examples of the ability to apply theoretical knowledge to real-world scenarios.<br>
+<be>
 
+11 / July / 2024<br>
 Week 6 - Project/client introduction, group project management<br>
 <br>
 Learning Activities & Resources<br>
