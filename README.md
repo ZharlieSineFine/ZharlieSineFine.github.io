@@ -156,4 +156,30 @@ Career/Employability/Learning Insights<br>
 2.Proficiency with project management and collaboration tools like Trello, GitHub, and Slack is a common requirement for many web development positions. Building hands-on experience with these tools through group projects can enhance employability.<br>
 3.The ability to work effectively in a team, communicate clearly, and manage tasks and deadlines are critical soft skills for success in the workplace. Participating in group projects provides an opportunity to develop and showcase these skills.<br>
 4.Networking with colleagues and classmates on professional platforms like LinkedIn can lead to valuable connections and opportunities down the road. It's never too early to start building a strong professional network.<br>
-Taking initiative to investigate and test different tools and solutions (like hosting platforms) demonstrates a proactive and problem-solving mindset - qualities that are highly sought after by employers.<br>
+Taking initiative to investigate and test different tools and solutions (like hosting platforms) demonstrates a proactive and problem-solving mindset - qualities that are highly sought after by employers.<be>
+
+
+20 / July / 2024<br>
+<br>
+Week 7 - PHP Programming<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU weekly video.<br>
+2.Studied the LinkedIn Learning course PHP with MySQL Essential Training: The Basics<br>
+3.Completed the practical on PHP programming.<br>
+4.Held a group meeting for the Baizonn Learning Centre project and discussed our strategies and approach.<br>
+5.Settled on agenda for our meeting next Tuesday.<br>
+<br>
+Estimated Hours<br>
+10 hours<br>
+Content Insights<br>
+1.Understanding PHP's functionality as a server-side scripting language is crucial for backend development. It plays a key role in building dynamic web applications that interact with databases.<br>
+2.Learning MySQL operations through PHP showcases the importance of databases in storing and retrieving data for web applications, highlighting how PHP scripts can dynamically generate web pages from database content.<br>
+3.Proficiency in PHP and MySQL is highly valued in many web development roles. Demonstrating skills in these areas can significantly enhance employability in the tech industry.<br>
+<br>
+Career/Employability/Learning Insights<br>
+1.Gaining hands-on experience with PHP programming through academic projects provides a solid foundation for entering roles that require backend development skills.<br>
+2.The practical exercises helped illustrate how PHP can be used for form handling, user authentication, and session management, which are foundational for developing secure and functional web applications.<br>
+3.Working in a group setting on a project like the Baizonn Learning Centre helps develop essential soft skills such as teamwork, communication, and time management.<br>
+Engaging in complex projects and learning to solve real-world problems with PHP programming prepares us for the technical challenges we will face in our careers.<be>
+
