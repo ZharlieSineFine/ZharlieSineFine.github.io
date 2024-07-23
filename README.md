@@ -196,7 +196,7 @@ Learning Activities & Resources<br>
 5.Interviewed classmates and lecturers for outside input.<br>
 6.Seven out of 12 people reported minimal impacts on taking notes while having a live lecture; two reported “sometimes it helps;” and the rest three reported significant improvements with notes taking.<br>
 7.Held a group meeting for the Baizonn Learning Centre project and discussed our strategies and approach.<br>
-8.Settled on a starter theme and uploaded the client materials.v
+8.Settled on a starter theme and uploaded the client materials.<br>
 Estimated Hours<br>
 20 hours<br>
 Content Insights<br>
