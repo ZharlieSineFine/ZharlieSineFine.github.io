@@ -183,3 +183,31 @@ Career/Employability/Learning Insights<br>
 3.Working in a group setting on a project like the Baizonn Learning Centre helps develop essential soft skills such as teamwork, communication, and time management.<br>
 Engaging in complex projects and learning to solve real-world problems with PHP programming prepares us for the technical challenges we will face in our careers.<be>
 
+
+23 / July / 2024<br>
+<br>
+Week 8 - WordPress: Developing Custom Themes<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU weekly video.<br>
+2.Studied the LinkedIn Learning course WordPress: Building Progressive Themes with WP Rig and WordPress Developer Tips: DRY Development<br>
+3.Drafted a hypothesis about learning that “taking notes during a live session lecture will not help your academic performance in general.”<br>
+4.Conducted self-test by starting to take notes during lectures.<br>
+5.Interviewed classmates and lecturers for outside input.<br>
+6.Seven out of 12 people reported minimal impacts on taking notes while having a live lecture; two reported “sometimes it helps;” and the rest three reported significant improvements with notes taking.<br>
+7.Held a group meeting for the Baizonn Learning Centre project and discussed our strategies and approach.<br>
+8.Settled on a starter theme and uploaded the client materials.v
+Estimated Hours<br>
+20 hours<br>
+Content Insights<br>
+This week's focus on WordPress custom theme development provided valuable insights into creating progressive and efficient themes. The LinkedIn Learning courses, particularly "WordPress: Building Progressive Themes with WP Rig,"<br> introduced techniques for developing themes that prioritize performance, accessibility, and modern web standards. The concept of "DRY" (Don't Repeat Yourself) development emphasized the importance of creating reusable and modular code to<br> streamline the development process and maintain a consistent codebase.<br>
+<br>
+For the Baizonn Learning Centre project, selecting a starter theme and uploading client materials marked significant progress. This step allowed us to establish a foundation for the project and begin customizing the theme to meet the<br> client's specific requirements.<br>
+<br>
+Career/Employability/Learning Insights<br>
+<br>
+Conducting a learning experiment on the effectiveness of taking notes during live lectures provided valuable insights into personal learning preferences and the impact of different study techniques. While the majority of participants<br> reported minimal effects, a few experienced significant improvements in their learning outcomes. This experiment highlighted the importance of understanding individual learning styles and adapting study methods accordingly.<br>
+<br>
+The group meeting for the Baizonn Learning Centre project offered an opportunity to develop collaboration and communication skills. Discussing strategies and approaches with team members fostered a sense of shared responsibility and allowed for the exchange of ideas and expertise.
+
+From a career perspective, the skills acquired in WordPress custom theme development are highly relevant in the web development industry. The ability to create efficient, accessible, and progressive themes is a valuable asset that can<br> set one apart in the job market. Furthermore, the experience gained from working on a real-world project like the Baizonn Learning Centre enhances problem-solving abilities and project management skills, which are transferable to<br> various professional settings.<br>
