@@ -210,4 +210,33 @@ Conducting a learning experiment on the effectiveness of taking notes during liv
 <br>
 The group meeting for the Baizonn Learning Centre project offered an opportunity to develop collaboration and communication skills. Discussing strategies and approaches with team members fostered a sense of shared responsibility and allowed for the exchange of ideas and expertise.
 
-From a career perspective, the skills acquired in WordPress custom theme development are highly relevant in the web development industry. The ability to create efficient, accessible, and progressive themes is a valuable asset that can<br> set one apart in the job market. Furthermore, the experience gained from working on a real-world project like the Baizonn Learning Centre enhances problem-solving abilities and project management skills, which are transferable to<br> various professional settings.<br>
+From a career perspective, the skills acquired in WordPress custom theme development are highly relevant in the web development industry. The ability to create efficient, accessible, and progressive themes is a valuable asset that can<br> set one apart in the job market. Furthermore, the experience gained from working on a real-world project like the Baizonn Learning Centre enhances problem-solving abilities and project management skills, which are transferable to<br> various professional settings.<be>
+
+
+
+31 / July / 2024<br>
+<br>
+Week 9 - CSS pre-processing with Sass<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU Week 9 Lecture Video<br>
+2.Studied the LinkedIn Learning course Sass Essential Training<br>
+3.Created a simple site using sass and gulp<br>
+4.Held three group meetings with my team and completed the group project<br>
+5.Finished the project report and LinkedIn report<br>
+6.Finished the peer review sheet<br>
+<br>
+Estimated Hours<br>
+20 hours<br>
+Content Insights<br>
+1.Sass significantly streamlines CSS development by introducing powerful features like variables, nesting, mixins, and inheritance. These features make stylesheets more organized, maintainable, and easier to scale.<br>
+2.The use of variables in Sass allows for easy management of color schemes, font styles, and other repeated values across a project. This makes site-wide changes much simpler to implement.<br>
+3.Nesting in Sass mirrors HTML structure, making stylesheets more intuitive and reducing repetition. However, it's important to avoid over-nesting to prevent overly specific selectors.<br>
+4.Mixins are a powerful tool for reusing blocks of styles, especially useful for vendor prefixes and responsive design patterns. They can significantly reduce code duplication.<br>
+5.The extend/inheritance feature in Sass is excellent for creating relationships between selectors, but it should be used judiciously to avoid bloated CSS output.<br>
+<br>
+Career/Employability/Learning Insights<br>
+1.Learning Sass has enhanced my CSS skills and made me more efficient in web development. This is a valuable skill in the job market, as many companies use CSS preprocessors in their workflows.<br>
+2.Working with Gulp for task automation has introduced me to the concept of build tools in web development. This knowledge is crucial for modern front-end development and can be applied to various projects and frameworks.<br>
+3.The group project experience reinforced the importance of collaboration and communication in web development. It also provided insights into project management and division of tasks, which are essential skills in any professional setting.<be>
+
