@@ -117,6 +117,7 @@ Career/Employability/Learning Insights<br>
 5. Knowledge of staging environments and DevOps practices like CI/CD is increasingly important as web projects become more complex. These skills can help developers catch bugs early, automate repetitive tasks, and improve the reliability of deployments.<br>
 6. Continuous learning is essential in the rapidly evolving field of web development. Keeping up with new tools, best practices, and workflows through courses, tutorials, and hands-on experience is valuable for career growth and employability.<be>
 <br>
+<br>
 20 / June / 2024 <br>
 Week 5 - WordPress: Developing Child Themes<br>
 <br>
