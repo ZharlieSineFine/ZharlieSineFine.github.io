@@ -109,9 +109,8 @@ Content Insights<br>
 5. Staging environments provide an intermediary between local development and production. They allow for testing changes in a production-like setting before pushing live.<br>
 <br>
 Career/Employability/Learning Insights<br>
-1.DevOps practices like continuous integration and continuous deployment (CI/CD) automate the process of testing, building, and deploying code changes. Tools like Jenkins, TravisCI, and CircleCI are used to implement CI/CD pipelines.<be>
 <br>
-Career/Employability/Learning Insights<br>
+1.DevOps practices like continuous integration and continuous deployment (CI/CD) automate the process of testing, building, and deploying code changes. Tools like Jenkins, TravisCI, and CircleCI are used to implement CI/CD pipelines.<be>
 2. Understanding web design processes and project phases is important for collaborating with designers, developers, and stakeholders. Familiarity with common deliverables and milestones helps ensure projects stay on track.<br>
 3. Version control is a fundamental skill for web developers. Demonstrating proficiency with Git commands and workflows can be a valuable asset in job interviews and on-the-job collaboration.<br>
 4. Experience with local development and deployment processes is crucial for web professionals. Employers often expect developers to be able to set up their own development environments and manage the deployment process.<br>
