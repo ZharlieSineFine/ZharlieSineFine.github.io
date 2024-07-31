@@ -1,3 +1,5 @@
+Below is the compilation of all ten weeks' journal entries.<br>
+<br>
 24 / May / 2024<br>
 Week 1: Subject Intro & Web Design Basics<br>
 <br>
