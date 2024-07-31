@@ -1,0 +1,37 @@
+31 / May / 2024<br>
+Week 2 - Overview of CMSs<br>
+<br>
+Learning Activities & Resources<br>
+1. Studied the LinkedIn Learning course WordPress Essential Training.<br>
+2. Created a simple site with WordPress and a hosting provider.<br>
+3. Finished the LearnJCU weekly video.<be>
+<br>
+Estimated Hours<br>
+6 hours<be>
+<br>
+Content Insights<br>
+1. Other CMSs might be quicker to launch, but WordPress provides more customization and stronger SEO tools. On top of that, the creator owns all the content and has flexible options for content storage.<br>
+2.WordPress is open source because this way, the source code can be inspected and modified.<br>
+3. Files that make up a WordPress website are stored on a server owned by hosting companies.<br>
+4. SSL creates an encrypted link between a web server and a web browser. They are necessary for keeping the information transmission secure and they are easy to install.<br>
+5. Updating your WordPress version is a common good practice, either automatically or manually.<br>
+6. Use a highly vetted, secure, and updated theme for your website. This will keep your website away from vulnerabilities.<br>
+7. Before updating your theme: <br>
+Make a full backup of your site<br>
+Read the release notes<br>
+Make sure you are using the right version of WordPress<br>
+8. <br>
+Server side                  Client side<br>
+Files ----> Web Server <--------> Browser<br>
+9. Cloud backup is recommended for WordPress websites.<br>
+10. A white screen of death could be caused by:<br>
+-Overloaded memory limit<br>
+-PHP error<br>
+-Theme conflict<br>
+-Plugin conflict<be>
+<br>
+Career/Employability/Learning Insights<br>
+1.WordPress may not be the best CMS there is in the current market, but given its popularity and dominant status among all the CMS right now, it is still considered a good option for beginners to learn to get familiar with CMS in general.<br>
+2. Virtual machines are often applied as a development and production environment. We can use VirtualBox or VMWare to set up our virtual machines for site development.<br>
+<be>
+<br>
