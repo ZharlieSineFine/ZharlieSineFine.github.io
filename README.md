@@ -238,5 +238,26 @@ Content Insights<br>
 Career/Employability/Learning Insights<br>
 1.Learning Sass has enhanced my CSS skills and made me more efficient in web development. This is a valuable skill in the job market, as many companies use CSS preprocessors in their workflows.<br>
 2.Working with Gulp for task automation has introduced me to the concept of build tools in web development. This knowledge is crucial for modern front-end development and can be applied to various projects and frameworks.<br>
-3.The group project experience reinforced the importance of collaboration and communication in web development. It also provided insights into project management and division of tasks, which are essential skills in any professional setting.<be>
+3.The group project experience reinforced the importance of collaboration and communication in web development. It also provided insights into project management and division of tasks, which are essential skills in any professional setting.<br>
 
+07 / Aug / 2024<br>
+<br>
+Week 10 - Securing WordPress<br>
+<br>
+Learning Activities & Resources<br>
+1.Finished the LearnJCU Week 10 Lecture Video<br>
+2.Studied the LinkedIn Learning course WordPress: Building a Secure Site<br>
+3.Conducted a group meeting to exchange our insights about this subject<br>
+<br>
+Estimated Hours<br>
+8 hours<br>
+<br>
+Content Insights<br>
+1.WordPress security is multifaceted and requires a layered approach. It's not just about installing a security plugin, but also about following best practices in every aspect of site management, from user access to code integrity.<br>
+2. Regular updates of WordPress core, themes, and plugins are crucial for maintaining security. Many vulnerabilities are patched in updates, so keeping everything current is a simple yet effective security measure.<br>
+3. Strong password policies and two-factor authentication significantly enhance user account security. Implementing these measures can prevent many common types of attacks, such as brute force attempts.<br>
+<br>
+Career/Employability/Learning Insights<br>
+1.Understanding WordPress security is essential for any web developer or site manager working with this popular platform. It adds significant value to my skill set and makes me more employable in roles involving WordPress development or management.<br>
+2.The process of securing a WordPress site involves critical thinking and problem-solving skills. It requires assessing potential vulnerabilities, prioritizing risks, and implementing appropriate solutions. These analytical skills are transferable to many aspects of IT and cybersecurity roles.<br>
+3.Learning about WordPress security has increased my awareness of web security in general. This knowledge can be applied to other content management systems and web applications, broadening my understanding of web development best practices.<br>
