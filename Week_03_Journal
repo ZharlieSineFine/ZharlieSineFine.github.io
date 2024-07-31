@@ -1,0 +1,27 @@
+06 / June / 2024<br>
+Week 3 - WordPress: installation, settings, content, navigation, using themes and plugins<br>
+<br>
+Learning Activities & Resources<br>
+1. Finished the LearnJCU weekly video.<br>
+2. Studied the LinkedIn Learning course WordPress: Workflows.<br>
+3. Worked on the individual WordPress site.<be>
+<br>
+Estimated Hours<br>
+8 hours<be>
+<br>
+Content Insights<br>
+1. Installing WordPress involves downloading the software, setting up a database, and running the installation script. Many web hosts offer tools to simplify this process.<br>
+2. Key WordPress settings to configure include the site title and description, permalink structure, user roles and permissions, and reading/writing/discussion options.<br>
+3. Content in WordPress is managed as Posts (blog entries) or Pages (static content). Categories and tags help organize posts.<br>
+4. Menus provide site navigation and are managed in the Appearance > Menus section of the WordPress admin area. Menus can include links to pages, posts, categories, or external URLs.<br>
+5. Themes control the design and layout of a WordPress site. They can be installed from the WordPress.org theme directory or from third-party marketplaces. Child themes allow customization without losing changes during parent theme updates.<br>
+6. Plugins extend WordPress functionality. Popular types include SEO, caching, security, forms, and e-commerce. Like themes, they can be installed from the official directory or third-party sources. It's important to keep them updated and use only those from trusted developers.<br>
+7. A staging site is a separate copy of the live site used for testing changes. Deploying moves changes from staging to production. Tools like WP Stagecoach, WP Staging, and Duplicator help manage staging workflows.<br>
+<br>
+Career/Employability/Learning Insights<br>
+1. Understanding the fundamentals of WordPress installation, settings, content management, themes, and plugins is valuable for web professionals, as WordPress powers over 40% of all websites.<br>
+2. Familiarity with staging and deployment best practices is important for maintaining stable and secure WordPress sites in a professional context.<br>
+3. Learning to evaluate and select high-quality themes and plugins is a key skill for WordPress developers and site owners. Criteria to consider include the author's reputation, update history, compatibility, features, and performance impact.<br>
+4. As WordPress is so widely used, skills developed while learning the platform - like web design principles, HTML/CSS basics, PHP fundamentals, and database concepts - are transferable to web development more broadly.<br>
+<br>
+<br>
